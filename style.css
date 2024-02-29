@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Protest+Revolution&display=swap');
+
+nav{
+    background-color: #66350d;
+    font-family: "Protest Revolution", sans-serif;
+}
+.navbar .navbar-brand{
+    color: beige;
+}
+.row .card-title{
+    font-family: "Protest Revolution", sans-serif;
+}
+.row .card-text{
+    font-family: "Josefin Sans", sans-serif;
+}
+footer{
+    height: 250px;
+}
+.container footer h4{
+    color: #66350d;
+    font-family: "Protest Revolution", sans-serif;
+}
+.container footer b{
+    color: #66350d;
+}
+.container footer h5{
+    font-family: "Protest Revolution", sans-serif;
+}
+footer strong , footer p{
+    font-family: "Josefin Sans", sans-serif;
+}
+.icons i{
+    font-size: 25px;
+    color: #66350d;
+}
+.container .card a {
+    background-color: #66350d;
+}
+.container .card a:hover {
+    background-color: beige;
+    color: #66350d;
+}
